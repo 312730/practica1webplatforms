@@ -1,0 +1,25 @@
+{
+  "name": "practica1",
+  "version": "1.0.0",
+  "description": "primera practica de npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "dev": "supervisor index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo",
+    "app-demo",
+    "learn"
+  ],
+  "author": "Adan Ramirez",
+  "license": "ISC",
+  "dependencies": {
+    "log4js": "^6.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "mocha": "^9.1.0"
+  }
+}
